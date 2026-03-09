@@ -86,7 +86,7 @@ For open-ended questions, the chatbot uses OpenAI text generation to continue th
 
 ```bash
 main.py
-
+```
 
 ![picture1](https://github.com/GORDIAN12/hackatoon_chatbot/assets/91165071/0e2998b5-cb36-4cb1-8af1-d74c8a1ef21b)
 
